@@ -1,4 +1,0 @@
-# define the model
-model = make_yolov3_model()
-# load the model weights
-weight_reader
